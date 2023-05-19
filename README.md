@@ -5,3 +5,7 @@
 ## 2023-04-06
 
 Homework#2, simple calculater 구현
+
+## 2023-05-19
+
+Homework#4, figure 모듈 구현
